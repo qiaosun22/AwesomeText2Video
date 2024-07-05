@@ -30,6 +30,10 @@
 ### Physics-Aware
 - **PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation** [link](https://arxiv.org/pdf/2206.14797) _axiv last updated_ Apr 2024
 - **Physics-as-inverse-graphics: Unsupervised physical parameter estimation from video** [link](https://arxiv.org/pdf/1905.11169) _axiv last updated_ Apr 2020, _Accepted by_ ICLR 2020
+  - This is an early work before the emergence of various DDPMs.
+  - It serves as an insight where 
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/a5c60148-1a36-4aa6-b07c-a0f22918a3fc)
+
 
 # Datasets
 - https://www.sciencedirect.com/science/article/pii/S2352340924004839
@@ -39,3 +43,9 @@
 - Quality
   
 - Diversity
+
+# Literature Reviews or Investigations
+- 
+
+# Lectures & Tutorials & Blogs
+- **Physics-inspired diffusion model** [link](https://collab.dvb.bayern/display/TUMdlma/Physics-inspired+diffusion+model)
