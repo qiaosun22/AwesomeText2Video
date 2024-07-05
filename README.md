@@ -1,4 +1,4 @@
-![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/ff7bbcee-7e72-4143-a06f-fdec0b7d40a2)# Models
+# Models
 - **VisorGPT: Learning Visual Prior via Generative Pre-Training** [link](https://arxiv.org/pdf/2305.13777) _axiv last updated_ May 2023, _Accepted by_ NeurIPS 2023.
   - VisorGPT stands for "**Vis**ual pri**or** via **G**enerative **P**re-**T**raining".
   - It proposes a method to “explicitly learn the _visual prior_ and enable the customization of sampling.” In other words, it intends to _model the visual prior_.
