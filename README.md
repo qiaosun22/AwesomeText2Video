@@ -1,4 +1,17 @@
 # Models
+## Unconditional Models
+- DALL-E
+
+- IMAGEN
+
+- Stable Diffusion
+
+- 
+## Conditional Models
+- ControlNet
+
+- GLIGEN
+
 - **VisorGPT: Learning Visual Prior via Generative Pre-Training** [link](https://arxiv.org/pdf/2305.13777) _axiv last updated_ May 2023, _Accepted by_ NeurIPS 2023.
   - VisorGPT stands for "**Vis**ual pri**or** via **G**enerative **P**re-**T**raining".
   - It proposes a method to “explicitly learn the _visual prior_ and enable the customization of sampling.” In other words, it intends to _model the visual prior_.
@@ -10,3 +23,9 @@
 
 # Datasets
 - https://www.sciencedirect.com/science/article/pii/S2352340924004839
+
+
+# Metrics
+- Quality
+  
+- Diversity
