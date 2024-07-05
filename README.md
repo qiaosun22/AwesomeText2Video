@@ -28,7 +28,8 @@
   - Propose one neglected question: _How do video diffusion models encode cross-frame motion information within their features?_ This is crucial for two reasons: a) it offers architectureagnostic insights, meaning that such knowledge can be applied across different models and their checkpoints, an important consideration given the rapid evolution of video diffusion models; and b) it supports various downstream applications.
  
 ### Physics-Aware
-- **PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation** [link](https://arxiv.org/pdf/2206.14797) _axiv last updated_ April 2024
+- **PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation** [link](https://arxiv.org/pdf/2206.14797) _axiv last updated_ Apr 2024
+- **Physics-as-inverse-graphics: Unsupervised physical parameter estimation from video** [link](https://arxiv.org/pdf/1905.11169) _axiv last updated_ Apr 2020, _Accepted by_ ICLR 2020
 
 # Datasets
 - https://www.sciencedirect.com/science/article/pii/S2352340924004839
