@@ -12,6 +12,7 @@
 
 - GLIGEN
 
+### Story Board
 - **VisorGPT: Learning Visual Prior via Generative Pre-Training** [link](https://arxiv.org/pdf/2305.13777) _axiv last updated_ May 2023, _Accepted by_ NeurIPS 2023.
   - VisorGPT stands for "**Vis**ual pri**or** via **G**enerative **P**re-**T**raining".
   - It proposes a method to “explicitly learn the _visual prior_ and enable the customization of sampling.” In other words, it intends to _model the visual prior_.
@@ -22,6 +23,9 @@
   - It confirms customizing spatial conditions from many aspects, e.g., data type, object size, number of instances, and classes, which gears the image synthesis models (say, ControlNet) to generate endless visual-prior-aware images. 
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/c65f9b9a-7dc6-458b-b9f1-e3cd68135bae)
 
+### Motion Guidance
+- **Video Diffusion Models are Training-free Motion Interpreter and Controller** [link](https://arxiv.org/pdf/2405.14864v1) _axiv last updated_ May 2023
+  - Propose one neglected question: _How do video diffusion models encode cross-frame motion information within their features?_
 
 # Datasets
 - https://www.sciencedirect.com/science/article/pii/S2352340924004839
