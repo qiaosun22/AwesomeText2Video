@@ -42,7 +42,13 @@
 
 ### Motion Guidance
 - **Video Diffusion Models are Training-free Motion Interpreter and Controller** [link](https://arxiv.org/pdf/2405.14864v1) _arxiv last updated_ May 2023
-  - Propose one neglected question: _How do video diffusion models encode cross-frame motion information within their features?_ This is crucial for two reasons: a) it offers architectureagnostic insights, meaning that such knowledge can be applied across different models and their checkpoints, an important consideration given the rapid evolution of video diffusion models; and b) it supports various downstream applications.
+  - It presents _MOtion FeaTure_ (MOFT) that effectively captures motion information. MOFT has several advantages:
+    - a) it encodes rich motion information with high interpretability;
+    - b) it can be extracted in a training-free way; and
+    - c) it is generalizable to various architectures. 
+  - Propose one neglected question: _How do video diffusion models encode cross-frame motion information within their features?_ This is crucial for two reasons:
+    - a) it offers architectureagnostic insights, meaning that such knowledge can be applied across different models and their checkpoints, an important consideration given the rapid evolution of video diffusion models; and
+    - b) it supports various downstream applications. 
 
 ### Motion-Aware
 - **MotionBooth: Motion-Aware Customized Text-to-Video Generation** [link](https://arxiv.org/pdf/2406.17758#page=12.85) _arxiv last updated_ Jun 2024
