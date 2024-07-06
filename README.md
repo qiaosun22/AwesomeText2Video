@@ -15,9 +15,12 @@
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/0f94bc24-a1bf-4c02-b693-22a450d15c08)
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/86b8bca0-640c-4993-a3e1-49488e9b6a12)
 
+- **SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis** [link](https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Farshad_SceneGenie_Scene_Graph_Guided_Diffusion_Models_for_Image_Synthesis_ICCVW_2023_paper.pdf) _Accepted by_ CVPR_2023
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/33126716-a316-4023-99cf-d573a1439491)
+
 - **High-Resolution Image Synthesis with Latent Diffusion Models** [link](https://arxiv.org/pdf/2112.10752)  _arxiv last updated_ Apr 2022
   - By introducing cross-attention based conditioning into LDMs, it opens them up for various conditioning modalities previously unexplored for diffusion models.
-    ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/7a9124fa-2041-4416-9afe-5ec64552d04a)
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/7a9124fa-2041-4416-9afe-5ec64552d04a)
 
 - **Semantic Image Manipulation Using Scene Graphs** [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dhamo_Semantic_Image_Manipulation_Using_Scene_Graphs_CVPR_2020_paper.pdf) _Accepted by_ CVPR_2020
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/ca4015ee-c397-4927-8fd8-4a7b823450bb)
