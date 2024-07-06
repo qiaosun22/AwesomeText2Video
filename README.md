@@ -64,8 +64,10 @@
 - **PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation** [link](https://arxiv.org/pdf/2206.14797) _arxiv last updated_ Apr 2024
 - **Physics-as-inverse-graphics: Unsupervised physical parameter estimation from video** [link](https://arxiv.org/pdf/1905.11169) _arxiv last updated_ Apr 2020, _Accepted by_ ICLR 2020
   - This is an early work before the emergence of various DDPMs.
-  - It serves as an insight to use video generation for the physics-world interactions:
+  - It serves as an insight to treat the inverse graphics problem (motion parameters prediction) using a network from a video input. Though the "video generation" is trivial. 
+  - It significantly outperforms related unsupervised methods in long-term future frame prediction of systems with interacting objects (such as ball-spring or 3-body gravitational systems), due to its ability to build dynamics into the model as an inductive bias. 
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/a5c60148-1a36-4aa6-b07c-a0f22918a3fc)
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/8063d4d3-7ba7-464a-96fa-ec6715559cd7)
 
 
 # Datasets
