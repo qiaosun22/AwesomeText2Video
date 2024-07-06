@@ -1,4 +1,4 @@
-![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/3c02697c-a4b9-455b-913b-1f20df1f63ad)![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/9cad2d23-c4be-4bb7-80f3-b21585745176)# Models
+# Models
 ## Unconditional Models
 ### Previous Foundation Works on Image Generation
 - DALL-E
