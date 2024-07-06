@@ -8,12 +8,14 @@
 - Stable Diffusion
 
 
-- **High-Resolution Image Synthesis with Latent Diffusion Models** [link](https://arxiv.org/pdf/2112.10752)  _arxiv last updated_ Apr 2022
 ## Conditional Models
 ### Paradigm 1: cross-attention based conditioning
 #### Semantic Layouts to Images
-- 
-  -  OpenImages finetune on COCO
+
+- **High-Resolution Image Synthesis with Latent Diffusion Models** [link](https://arxiv.org/pdf/2112.10752)  _arxiv last updated_ Apr 2022
+  - By introducing cross-attention based conditioning into LDMs, it opens them up for various conditioning modalities previously unexplored for diffusion models.
+    ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/7a9124fa-2041-4416-9afe-5ec64552d04a)
+
 
 - ControlNet
 
