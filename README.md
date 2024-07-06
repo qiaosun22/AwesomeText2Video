@@ -42,6 +42,7 @@
 
 ### Motion Guidance
 - **Video Diffusion Models are Training-free Motion Interpreter and Controller** [link](https://arxiv.org/pdf/2405.14864v1) _arxiv last updated_ May 2023
+  - Insight: Through analysis using Principal Component Analysis (PCA), our work discloses that robust motion-aware feature _already exists in_ video diffusion models.
   - It presents _MOtion FeaTure_ (MOFT) that effectively captures motion information. MOFT has several advantages:
     - a) it encodes rich motion information with high interpretability;
     - b) it can be extracted in a training-free way; and
