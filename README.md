@@ -7,8 +7,14 @@
 
 - Stable Diffusion
 
-- 
+
+- **High-Resolution Image Synthesis with Latent Diffusion Models** [link](https://arxiv.org/pdf/2112.10752)  _arxiv last updated_ Apr 2022
 ## Conditional Models
+### Paradigm 1: cross-attention based conditioning
+#### Semantic Layouts to Images
+- 
+  -  OpenImages finetune on COCO
+
 - ControlNet
 
 - GLIGEN
@@ -48,6 +54,9 @@
 
 
 # Datasets
+- OpenImages [link](https://arxiv.org/pdf/1811.00982)
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/19d711b8-9a22-4cce-b13e-2a2a9cb31340)
+
 - https://www.sciencedirect.com/science/article/pii/S2352340924004839
 
 
