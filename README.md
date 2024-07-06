@@ -1,4 +1,4 @@
-# Models
+![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/24cc4628-1b40-44c6-a172-21150a88e75d)![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/66aad0be-4537-40da-ae57-3cd14248f4da)# Models
 ## Unconditional Models
 ### Previous Foundation Works on Image Generation
 - DALL-E
@@ -61,7 +61,13 @@
 - **MotionBooth: Motion-Aware Customized Text-to-Video Generation** [link](https://arxiv.org/pdf/2406.17758#page=12.85) _arxiv last updated_ Jun 2024
   
 ### Physics-Aware
+- **Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion** [link](https://arxiv.org/pdf/2406.04338) _arxiv last updated_ Jun 2024
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/72341d45-9bd7-418c-bd41-d579682d1405)
+  
 - **PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation** [link](https://arxiv.org/pdf/2206.14797) _arxiv last updated_ Apr 2024
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/50f58bac-9c35-477f-8940-1306000391a2)
+
+
 - **Physics-as-inverse-graphics: Unsupervised physical parameter estimation from video** [link](https://arxiv.org/pdf/1905.11169) _arxiv last updated_ Apr 2020, _Accepted by_ ICLR 2020
   - This is an early work before the emergence of various DDPMs.
   - It serves as an insight to treat the inverse graphics problem (motion parameters prediction) using a network from a video input. Though the "video generation" is trivial. 
