@@ -1,4 +1,4 @@
-# Models
+![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/21cc67ac-29d1-4f30-8159-5aa04c708faf)# Models
 ## Unconditional Models
 ### Previous Foundation Works on Image Generation
 - DALL-E
@@ -11,6 +11,10 @@
 ## Conditional Models
 ### Paradigm 1: cross-attention based conditioning
 #### Semantic Layouts to Images
+- **GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs**[link](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_GraphDreamer_Compositional_3D_Scene_Synthesis_from_Scene_Graphs_CVPR_2024_paper.pdf)  _Accepted by_ CVPR_2024
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/0f94bc24-a1bf-4c02-b693-22a450d15c08)
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/86b8bca0-640c-4993-a3e1-49488e9b6a12)
+
 - **High-Resolution Image Synthesis with Latent Diffusion Models** [link](https://arxiv.org/pdf/2112.10752)  _arxiv last updated_ Apr 2022
   - By introducing cross-attention based conditioning into LDMs, it opens them up for various conditioning modalities previously unexplored for diffusion models.
     ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/7a9124fa-2041-4416-9afe-5ec64552d04a)
