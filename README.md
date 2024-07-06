@@ -52,6 +52,7 @@
     - a) it encodes rich motion information with high interpretability;
     - b) it can be extracted in a training-free way; and
     - c) it is generalizable to various architectures. 
+![Uploading image.png…]()
 
 
 ### Motion-Aware
