@@ -55,7 +55,9 @@
 ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/99d488ee-4b82-4d66-a412-571fe7ac9418)
 ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/146a0d82-8b21-4a29-bae7-0c3cd65a3586)
 
-
+### 3D-Aware
+- **3D-Aware Video Generation** [link](https://arxiv.org/pdf/2206.14797) _Accepted by_ Transactions on Machine Learning Research (06/2023)
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/c3cbdbac-2ce9-424a-8eb1-570445e0880b)
 
 ### Motion-Aware
 - **MotionBooth: Motion-Aware Customized Text-to-Video Generation** [link](https://arxiv.org/pdf/2406.17758#page=12.85) _arxiv last updated_ Jun 2024
