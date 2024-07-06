@@ -1,5 +1,6 @@
 # Models
 ## Unconditional Models
+### Previous Foundation Works on Image Generation
 - DALL-E
 
 - IMAGEN
@@ -13,6 +14,7 @@
 - GLIGEN
 ### Tuning-free
 - **AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning** [link](https://arxiv.org/abs/2307.04725) _arxiv last updated_ Jul 2023, _Accepted by_ ICLR 2024 (spotlight)
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/3fcb43e1-c30b-4152-bb90-c1b403c63faf)
 
 ### Motion LoRA
 
@@ -38,7 +40,7 @@
 - **PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation** [link](https://arxiv.org/pdf/2206.14797) _arxiv last updated_ Apr 2024
 - **Physics-as-inverse-graphics: Unsupervised physical parameter estimation from video** [link](https://arxiv.org/pdf/1905.11169) _arxiv last updated_ Apr 2020, _Accepted by_ ICLR 2020
   - This is an early work before the emergence of various DDPMs.
-  - It serves as an insight where 
+  - It serves as an insight to use video generation for the physics-world interactions:
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/a5c60148-1a36-4aa6-b07c-a0f22918a3fc)
 
 
