@@ -10,33 +10,37 @@
 
 ## Conditional Models
 ### Paradigm 1: cross-attention based conditioning
-#### Semantic Layouts to Images
-- **GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs**[link](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_GraphDreamer_Compositional_3D_Scene_Synthesis_from_Scene_Graphs_CVPR_2024_paper.pdf)  _Accepted by_ CVPR_2024
+#### Semantic Scene Graphs to Images
+- **GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs**[link](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_GraphDreamer_Compositional_3D_Scene_Synthesis_from_Scene_Graphs_CVPR_2024_paper.pdf)  _Accepted by_ CVPR 2024
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/0f94bc24-a1bf-4c02-b693-22a450d15c08)
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/86b8bca0-640c-4993-a3e1-49488e9b6a12)
 
-- **SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis** [link](https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Farshad_SceneGenie_Scene_Graph_Guided_Diffusion_Models_for_Image_Synthesis_ICCVW_2023_paper.pdf) _Accepted by_ CVPR_2023
+- **SceneGenie: Scene Graph Guided Diffusion Models for Image Synthesis** [link](https://openaccess.thecvf.com/content/ICCV2023W/SG2RL/papers/Farshad_SceneGenie_Scene_Graph_Guided_Diffusion_Models_for_Image_Synthesis_ICCVW_2023_paper.pdf) _Accepted by_ CVPR 2023
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/33126716-a316-4023-99cf-d573a1439491)
 
 - **High-Resolution Image Synthesis with Latent Diffusion Models** [link](https://arxiv.org/pdf/2112.10752)  _arxiv last updated_ Apr 2022
   - By introducing cross-attention based conditioning into LDMs, it opens them up for various conditioning modalities previously unexplored for diffusion models.
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/7a9124fa-2041-4416-9afe-5ec64552d04a)
 
-- **Semantic Image Manipulation Using Scene Graphs** [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dhamo_Semantic_Image_Manipulation_Using_Scene_Graphs_CVPR_2020_paper.pdf) _Accepted by_ CVPR_2020
+- **Semantic Image Manipulation Using Scene Graphs** [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dhamo_Semantic_Image_Manipulation_Using_Scene_Graphs_CVPR_2020_paper.pdf) _Accepted by_ CVPR 2020
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/ca4015ee-c397-4927-8fd8-4a7b823450bb)
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/39688953-1de2-46df-a9c9-34d11a2b73f8)
 
 
-- **Semantic image manipulation using scene graphs** [link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Johnson_Image_Generation_From_CVPR_2018_paper.pdf) _Accepted by_ CVPR_2018
+- **Semantic image manipulation using scene graphs** [link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Johnson_Image_Generation_From_CVPR_2018_paper.pdf) _Accepted by_ CVPR 2018
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/530c3192-f8e3-4a5e-98e6-6c2124f19286)
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/406be6cf-8e75-43fa-9a5b-f45f648a4a3b)
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/4d0c0ea3-2806-43b5-834a-7714aba2db36)
 
 
 
+#### Semantic Scene Graphs to Videos
+- **Unbiased Scene Graph Generation in Videos** [link](https://openaccess.thecvf.com/content/CVPR2023/papers/Nag_Unbiased_Scene_Graph_Generation_in_Videos_CVPR_2023_paper.pdf) _Accepted by_ CVPR 2023
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/0a34f741-c5a0-4e57-889d-53dcf95b82bc)
 
+- **SSGVS: Semantic Scene Graph-to-Video Synthesis** [link](https://openaccess.thecvf.com/content/CVPR2023W/MULA/papers/Cong_SSGVS_Semantic_Scene_Graph-to-Video_Synthesis_CVPRW_2023_paper.pdf) _Accepted by_ CVPR 2023 Workshop
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/347702b6-60e7-4a09-a312-a512e16ee897)
 
-  
 - ControlNet
 
 - GLIGEN
