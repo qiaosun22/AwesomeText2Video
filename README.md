@@ -1,4 +1,4 @@
-![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/24cc4628-1b40-44c6-a172-21150a88e75d)![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/66aad0be-4537-40da-ae57-3cd14248f4da)# Models
+# Models
 ## Unconditional Models
 ### Previous Foundation Works on Image Generation
 - DALL-E
@@ -67,6 +67,12 @@ Recent work has been based on 3D Gausian:
   
 - **PhysDreamer: Physics-Based Interaction with 3D Objects via Video Generation** [link](https://arxiv.org/pdf/2206.14797) _arxiv last updated_ Apr 2024
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/50f58bac-9c35-477f-8940-1306000391a2)
+  Its literature review is insightful:
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/f844a9b9-03b4-4934-909b-f4c85f5b5ef3)
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/05d62e93-6bf7-4288-8944-294fe068d9cb)
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/67fea98a-9d9f-475b-9341-b5a17b844cf8)
+
+
 
 
 - **Physics-as-inverse-graphics: Unsupervised physical parameter estimation from video** [link](https://arxiv.org/pdf/1905.11169) _arxiv last updated_ Apr 2020, _Accepted by_ ICLR 2020
