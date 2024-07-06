@@ -15,15 +15,16 @@
   - By introducing cross-attention based conditioning into LDMs, it opens them up for various conditioning modalities previously unexplored for diffusion models.
     ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/7a9124fa-2041-4416-9afe-5ec64552d04a)
 
+- **Semantic Image Manipulation Using Scene Graphs** [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dhamo_Semantic_Image_Manipulation_Using_Scene_Graphs_CVPR_2020_paper.pdf) _Accepted by_ CVPR_2020
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/ca4015ee-c397-4927-8fd8-4a7b823450bb)
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/39688953-1de2-46df-a9c9-34d11a2b73f8)
+
+
 - **Semantic image manipulation using scene graphs** [link](https://openaccess.thecvf.com/content_cvpr_2018/papers/Johnson_Image_Generation_From_CVPR_2018_paper.pdf) _Accepted by_ CVPR_2018
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/530c3192-f8e3-4a5e-98e6-6c2124f19286)
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/406be6cf-8e75-43fa-9a5b-f45f648a4a3b)
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/4d0c0ea3-2806-43b5-834a-7714aba2db36)
 
-
-- **Semantic Image Manipulation Using Scene Graphs** [link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Dhamo_Semantic_Image_Manipulation_Using_Scene_Graphs_CVPR_2020_paper.pdf)
-  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/ca4015ee-c397-4927-8fd8-4a7b823450bb)
-  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/39688953-1de2-46df-a9c9-34d11a2b73f8)
 
 
 
