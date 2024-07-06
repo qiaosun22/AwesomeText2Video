@@ -51,8 +51,10 @@
   - MOFT has several **advantages**:
     - a) it encodes rich motion information with high interpretability;
     - b) it can be extracted in a training-free way; and
-    - c) it is generalizable to various architectures. 
-![Uploading image.png…]()
+    - c) it is generalizable to various architectures.
+![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/99d488ee-4b82-4d66-a412-571fe7ac9418)
+![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/146a0d82-8b21-4a29-bae7-0c3cd65a3586)
+
 
 
 ### Motion-Aware
