@@ -11,7 +11,7 @@
 ## Conditional Models
 ### Paradigm 1: cross-attention based conditioning
 #### Semantic Scene Graphs to Images
-- **GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs**[link](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_GraphDreamer_Compositional_3D_Scene_Synthesis_from_Scene_Graphs_CVPR_2024_paper.pdf)  _Accepted by_ CVPR 2024
+- **GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs** [link](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_GraphDreamer_Compositional_3D_Scene_Synthesis_from_Scene_Graphs_CVPR_2024_paper.pdf)  _Accepted by_ CVPR 2024
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/0f94bc24-a1bf-4c02-b693-22a450d15c08)
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/86b8bca0-640c-4993-a3e1-49488e9b6a12)
 
@@ -132,4 +132,4 @@ Recent work has been based on 3D Gausian:
 - 
 
 # Lectures & Tutorials & Blogs
-- **Physics-inspired diffusion model** [link](https://collab.dvb.bayern/display/TUMdlma/Physics-inspired+diffusion+model)
+- **Physics-inspired diffusion model** [link](https://collab.dvb.bayern/display/TUMdlma/Physics-inspired+diffusion+model) [paper](https://arxiv.org/pdf/1612.06890)
