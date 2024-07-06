@@ -11,6 +11,10 @@
 - ControlNet
 
 - GLIGEN
+### Tuning-free
+- **AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning** [link](https://arxiv.org/abs/2307.04725) _axiv last updated_ Jul 2023, _Accepted by_ ICLR 2024 (spotlight)
+
+### Motion LoRA
 
 ### Story Board
 - **VisorGPT: Learning Visual Prior via Generative Pre-Training** [link](https://arxiv.org/pdf/2305.13777) _axiv last updated_ May 2023, _Accepted by_ NeurIPS 2023
