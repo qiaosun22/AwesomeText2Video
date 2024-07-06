@@ -17,7 +17,7 @@
   - Module Innovations:
     1. Domain Adpater: enhance the visual quality of AnimateDiff by alleviating the motion module from learning the visual distribution gap.
     2. Motion Module: learns transferable motion priors from real-world videos
-    3. Motion LoRA: enables a pre-trained motion module to adapt to new motion patterns, such as different shot types, at a low training and data collection cost.
+    3. Motion LoRA (optional): enables a pre-trained motion module to adapt to new motion patterns, such as different shot types, at a low training and data collection cost.
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/3fcb43e1-c30b-4152-bb90-c1b403c63faf)
 
 
