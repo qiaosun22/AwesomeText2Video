@@ -14,9 +14,12 @@
 - GLIGEN
 ### Tuning-free
 - **AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning** [link](https://arxiv.org/abs/2307.04725) _arxiv last updated_ Jul 2023, _Accepted by_ ICLR 2024 (spotlight)
+  - Module Innovations:
+    1. Domain Adpater: enhance the visual quality of AnimateDiff by alleviating the motion module from learning the visual distribution gap.
+    2. Motion Module: learns transferable motion priors from real-world videos
+    3. Motion LoRA: enables a pre-trained motion module to adapt to new motion patterns, such as different shot types, at a low training and data collection cost.
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/3fcb43e1-c30b-4152-bb90-c1b403c63faf)
 
-### Motion LoRA
 
 ### Story Board
 - **VisorGPT: Learning Visual Prior via Generative Pre-Training** [link](https://arxiv.org/pdf/2305.13777) _arxiv last updated_ May 2023, _Accepted by_ NeurIPS 2023
