@@ -58,6 +58,7 @@
 ### 3D-Aware
 - **3D-Aware Video Generation** [link](https://arxiv.org/pdf/2206.14797) _Accepted by_ Transactions on Machine Learning Research (06/2023)
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/c3cbdbac-2ce9-424a-8eb1-570445e0880b)
+  the spatio-temporal renderings of two scenes sampled from our 4D GAN.
 
 ### Motion-Aware
 - **MotionBooth: Motion-Aware Customized Text-to-Video Generation** [link](https://arxiv.org/pdf/2406.17758#page=12.85) _arxiv last updated_ Jun 2024
@@ -83,6 +84,10 @@ Recent work has been based on 3D Gausian:
   - It significantly outperforms related unsupervised methods in long-term future frame prediction of systems with interacting objects (such as ball-spring or 3-body gravitational systems), due to its ability to build dynamics into the model as an inductive bias. 
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/a5c60148-1a36-4aa6-b07c-a0f22918a3fc)
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/8063d4d3-7ba7-464a-96fa-ec6715559cd7)
+
+
+# Other Relevant Methods
+
 
 
 # Datasets
