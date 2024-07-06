@@ -61,6 +61,7 @@
 - **MotionBooth: Motion-Aware Customized Text-to-Video Generation** [link](https://arxiv.org/pdf/2406.17758#page=12.85) _arxiv last updated_ Jun 2024
   
 ### Physics-Aware
+Recent work has been based on 3D Gausian:
 - **Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion** [link](https://arxiv.org/pdf/2406.04338) _arxiv last updated_ Jun 2024
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/72341d45-9bd7-418c-bd41-d579682d1405)
   
