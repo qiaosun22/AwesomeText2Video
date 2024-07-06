@@ -120,7 +120,7 @@ Recent work has been based on 3D Gausian:
 - OpenImages [link](https://arxiv.org/pdf/1811.00982)
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/19d711b8-9a22-4cce-b13e-2a2a9cb31340)
 - CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning [link](https://cs.stanford.edu/people/jcjohns/clevr/) [paper](https://arxiv.org/pdf/1612.06890)
-- https://www.sciencedirect.com/science/article/pii/S2352340924004839
+- A dataset of text prompts, videos and video quality metrics from generative text-to-video AI models [paper](https://www.sciencedirect.com/science/article/pii/S2352340924004839)
 
 
 # Metrics
