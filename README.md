@@ -66,6 +66,8 @@
 
 
 ### Disentanglement of Appearance and Motion
+- ****
+  - Insight: The intermediate layers of the U-Net are more associated with object shapes or poses, and the two-end layers are more linked to appearance.
 - **VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models** [link](https://arxiv.org/pdf/2401.09047) _arxiv last updated_ Jan 2024
   - Data-level Disentanglement of Appearance and Motion
 ### Motion Guidance
