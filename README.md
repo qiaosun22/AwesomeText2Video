@@ -66,8 +66,10 @@
 
 
 ### Disentanglement of Appearance and Motion
-- ****
+- **P+: Extended Textual Conditioning in Text-to-Image Generation** [link](https://arxiv.org/pdf/2303.09522)  _arxiv last updated_ Jul 2023
   - Insight: The intermediate layers of the U-Net are more associated with object shapes or poses, and the two-end layers are more linked to appearance.
+  ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/a8289162-e385-4db2-b42b-435597c000f2)
+
 - **VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models** [link](https://arxiv.org/pdf/2401.09047) _arxiv last updated_ Jan 2024
   - Data-level Disentanglement of Appearance and Motion
 ### Motion Guidance
