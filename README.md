@@ -124,9 +124,12 @@ Recent work has been based on 3D Gausian:
 
 
 # Metrics
-- Quality
-  
-- Diversity
+## Quality
+- 3D fidelity
+  **Sora Generates Videos with Stunning Geometrical Consistency** [link](https://arxiv.org/pdf/2402.17403)
+  - It introduces a new benchmark that assesses the quality of the generated videos based on their adherence to real-world physics principles.
+  - It transforms the generated videos into 3D models, leveraging the premise that the accuracy of 3D reconstruction is heavily contingent on the video quality.
+## Diversity
 
 # Literature Reviews or Investigations
 - 
