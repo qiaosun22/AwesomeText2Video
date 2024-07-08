@@ -64,6 +64,10 @@
   - It confirms customizing spatial conditions from many aspects, e.g., data type, object size, number of instances, and classes, which gears the image synthesis models (say, ControlNet) to generate endless visual-prior-aware images. 
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/c65f9b9a-7dc6-458b-b9f1-e3cd68135bae)
 
+
+### Disentanglement of Appearance and Motion
+- **VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models** [link](https://arxiv.org/pdf/2401.09047) _arxiv last updated_ Jan 2024
+  - Data-level Disentanglement of Appearance and Motion
 ### Motion Guidance
 - **Video Diffusion Models are Training-free Motion Interpreter and Controller** [link](https://arxiv.org/pdf/2405.14864v1) _arxiv last updated_ May 2023
   - **Insight**: Through analysis using Principal Component Analysis (PCA), our work discloses that robust motion-aware feature _already exists in_ video diffusion models.
