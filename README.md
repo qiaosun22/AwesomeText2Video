@@ -72,6 +72,12 @@
 
 - **VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models** [link](https://arxiv.org/pdf/2401.09047) _arxiv last updated_ Jan 2024
   - Data-level Disentanglement of Appearance and Motion
+  - Traditional image animation techniques mainly focus on animating natural scenes with stochastic dynamics (e.g. clouds and fluid) or domain-specific motions (e.g. human hair or body motions), and thus limits their applicability to more general visual content.
+  - To overcome this limitation, it explores the synthesis of dynamic content for opendomain images, converting them into animated videos. The key idea is to utilize the motion prior of text-to-video diffusion models by incorporating the image into the generative process as guidance.
+  - Given an image, first project it into a text-aligned rich context representation space using a query transformer, which facilitates the video model to digest the image content in a compatible fashion.
+  - However, some visual details still struggle to be preserved in the resultant videos.
+  - To supplement with more precise image information, it further feeds the full image to the diffusion model by concatenating it with the initial noises.
+  - Experimental results show that our proposed method can produce visually convincing and more logical & natural motions, as well as higher conformity to the input image. Comparative evaluation demonstrates the notable superiority of our approach over existing competitors.
 ### Motion Guidance
 - **Video Diffusion Models are Training-free Motion Interpreter and Controller** [link](https://arxiv.org/pdf/2405.14864v1) _arxiv last updated_ May 2023
   - **Insight**: Through analysis using Principal Component Analysis (PCA), our work discloses that robust motion-aware feature _already exists in_ video diffusion models.
