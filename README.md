@@ -129,6 +129,9 @@ Recent work has been based on 3D Gausian:
 - **TextPSG: Panoptic Scene Graph Generation from Textual Descriptions** [link](https://arxiv.org/pdf/2310.07056#page=3.84)
   ![image](https://github.com/qiaosun22/AwesomeText2Video/assets/136222260/29405b3a-f8b2-4d83-a99a-f7693c6171c1)
 
+## Image to Video
+- **AtomoVideo: High Fidelity Image-to-Video Generation** [paper](https://arxiv.org/pdf/2403.01800) | [homepage](https://atomo-video.github.io/)
+  
 
 # Datasets
 - OpenImages [link](https://arxiv.org/pdf/1811.00982)
